@@ -1,0 +1,5 @@
+The records in the file are 1000
+Processing records
+1000 records failed to be processed, please check failed_records table!
+MongoDB: Trying to insert 1000
+1000 number of records were not uploaded.
